@@ -1,2 +1,2 @@
 # udemy-test
-Repository fo udemy git course
+Repository for udemy git course
